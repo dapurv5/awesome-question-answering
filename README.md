@@ -14,6 +14,9 @@
 - [Open Question Answering with Weakly Supervised Embedding Models](https://arxiv.org/pdf/1404.4326.pdf)
 - [Learning End-to-End Goal-Oriented dialog](https://arxiv.org/pdf/1605.07683v2.pdf)
 - [End-to-End Memory Networks with Knowledge Carryover for Multi-Turn Spoken Language Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/  IS16_ContextualSLU.pdf)
+- [Question Answering over Knowledge Base With Neural Attention Combining Global Knowledge Information](https://arxiv.org/pdf/1606.00979v1.pdf)
+- [Compositional Learning of Embeddings for Relation Paths in Knowledge Bases and Texts](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/acl2016relationpaths-1.pdf)
+- [Neural Machine Translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473v7.pdf)
 
 
 
