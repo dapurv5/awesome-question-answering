@@ -27,8 +27,6 @@
 - [Simple Questions](https://research.facebook.com/research/babi)
 - [Movie QA](https://research.facebook.com/research/babi/)
 - [WebQuestionsSP](https://www.microsoft.com/en-us/download/details.aspx?   id=52763)
-- 
-
 
 #### Code
 - [MemNN Impl Matlab](https://github.com/facebook/MemNN)
