@@ -30,3 +30,4 @@
 
 #### Code
 - [MemNN Impl Matlab](https://github.com/facebook/MemNN)
+- [Key Value MemNN](https://github.com/siyuanzhao/key-value-memory-networks)
