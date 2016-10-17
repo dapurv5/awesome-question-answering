@@ -17,7 +17,8 @@
 - [Question Answering over Knowledge Base With Neural Attention Combining Global Knowledge Information](https://arxiv.org/pdf/1606.00979v1.pdf)
 - [Compositional Learning of Embeddings for Relation Paths in Knowledge Bases and Texts](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/acl2016relationpaths-1.pdf)
 - [Neural Machine Translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473v7.pdf)
-
+- [Recurrent Neural Network Grammar](https://arxiv.org/pdf/1602.07776v4.pdf)
+- [Neural Turing Machines](https://www.youtube.com/watch?v=_H0i0IhEO2g)
 
 
 #### Datasets
