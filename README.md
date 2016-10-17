@@ -29,6 +29,13 @@
 - [WebQuestionsSP](https://www.microsoft.com/en-us/download/details.aspx?   id=52763)
 - [WikiQA](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/YangYihMeek_EMNLP-15_WikiQA.pdf)
 - [Kaggle AllenAI Challenge](https://www.kaggle.com/c/the-allen-ai-science-challenge)
+- [MC Test, Machine Comprehension Test Microsoft 2013](http://research.microsoft.com/en-us/um/redmond/projects/mctest/)
+- [MSR Sentence Completion Challenge](https://www.microsoft.com/en-us/research/project/msr-sentence-completion-challenge/)
+- [Dialog State Tracking Challenge](http://camdial.org/~mh521/dstc/)
+
+#### LM Datasets
+- PennTree Bank
+- Text8
 
 #### Code
 - [MemNN Impl Matlab](https://github.com/facebook/MemNN)
