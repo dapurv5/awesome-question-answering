@@ -19,6 +19,7 @@
 - [Neural Machine Translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473v7.pdf)
 - [Recurrent Neural Network Grammar](https://arxiv.org/pdf/1602.07776v4.pdf)
 - [Neural Turing Machines](https://www.youtube.com/watch?v=_H0i0IhEO2g)
+- [Teaching machines to read and comprehend](https://arxiv.org/pdf/1506.03340.pdf)
 
 
 #### Datasets
@@ -33,6 +34,7 @@
 - [MC Test, Machine Comprehension Test Microsoft 2013](http://research.microsoft.com/en-us/um/redmond/projects/mctest/)
 - [MSR Sentence Completion Challenge](https://www.microsoft.com/en-us/research/project/msr-sentence-completion-challenge/)
 - [Dialog State Tracking Challenge](http://camdial.org/~mh521/dstc/)
+- [QA dataset featured in Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
 
 #### LM Datasets
 - PennTree Bank
