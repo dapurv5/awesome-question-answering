@@ -36,6 +36,7 @@
 - [Dialog State Tracking Challenge](http://camdial.org/~mh521/dstc/)
 - [QA dataset featured in Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
 - [WebNav](https://github.com/nyu-dl/WebNav/blob/master/README.md)
+- [Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 
 #### LM Datasets
 - PennTree Bank
