@@ -42,6 +42,7 @@
 
 #### Presentations
 - [Relation Learning for Large Scale Knowledge Graph](http://nlp.csai.tsinghua.edu.cn/~lzy/talks/adl2015.pdf)
+- [Attention and Memory](http://videolectures.net/site/normal_dl/tag=1051694/deeplearning2016_chopra_attention_memory_01.pdf)
 
 #### LM Datasets
 - PennTree Bank
