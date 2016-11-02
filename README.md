@@ -38,6 +38,11 @@
 - [WebNav](https://github.com/nyu-dl/WebNav/blob/master/README.md)
 - [Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 
+
+
+#### Presentations
+- [http://nlp.csai.tsinghua.edu.cn/~lzy/talks/adl2015.pdf](Relation Learning for Large Scale Knowledge Graph)
+
 #### LM Datasets
 - PennTree Bank
 - Text8
