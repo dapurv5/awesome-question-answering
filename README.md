@@ -41,7 +41,7 @@
 
 
 #### Presentations
-- [http://nlp.csai.tsinghua.edu.cn/~lzy/talks/adl2015.pdf](Relation Learning for Large Scale Knowledge Graph)
+- [Relation Learning for Large Scale Knowledge Graph](http://nlp.csai.tsinghua.edu.cn/~lzy/talks/adl2015.pdf)
 
 #### LM Datasets
 - PennTree Bank
