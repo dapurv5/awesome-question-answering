@@ -20,6 +20,15 @@
 - [Recurrent Neural Network Grammar](https://arxiv.org/pdf/1602.07776v4.pdf)
 - [Neural Turing Machines](https://www.youtube.com/watch?v=_H0i0IhEO2g)
 - [Teaching machines to read and comprehend](https://arxiv.org/pdf/1506.03340.pdf)
+- [Applying Deep Learning to answer selection: A study and an open task](https://arxiv.org/pdf/1508.01585v2.pdf)
+- [Reasoning with Neural Tensor Networks](https://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion.pdf)
+- [Scalable Feature Learning for networks: Node2Vec](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf)
+- [Learning Distributed Representations for Rooted Subgraphs from Large Graphs: Subgraph2Vec](https://arxiv.org/pdf/1606.08928.pdf)
+
+
+#### todo
+- [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652v2.pdf)
+
 
 
 #### Datasets
