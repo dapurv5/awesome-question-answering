@@ -57,6 +57,8 @@
 - PennTree Bank
 - Text8
 
-#### Code
+#### Code & Relevant Projects
 - [MemNN Impl Matlab](https://github.com/facebook/MemNN)
 - [Key Value MemNN](https://github.com/siyuanzhao/key-value-memory-networks)
+- [Quepy](https://github.com/machinalis/quepy)
+- [NLQuery](https://github.com/ayoungprogrammer/nlquery)
