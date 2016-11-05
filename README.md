@@ -24,6 +24,9 @@
 - [Reasoning with Neural Tensor Networks](https://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion.pdf)
 - [Scalable Feature Learning for networks: Node2Vec](https://cs.stanford.edu/people/jure/pubs/node2vec-kdd16.pdf)
 - [Learning Distributed Representations for Rooted Subgraphs from Large Graphs: Subgraph2Vec](https://arxiv.org/pdf/1606.08928.pdf)
+- [Hybrid computing using a neural network with dynamic external memory](http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html)
+- [Traversing Knowledge Graphs in Vector Space](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP038.pdf)
+- [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705)
 
 
 #### todo
