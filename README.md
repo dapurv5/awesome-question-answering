@@ -31,6 +31,7 @@
 
 #### todo
 - [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652v2.pdf)
+- [Hierarchical Memory Networks](http://openreview.net/pdf?id=BJ0Ee8cxx)
 
 
 
