@@ -51,6 +51,8 @@
 - [Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 - [FB15K Knowledge Base](https://www.microsoft.com/en-us/download/details.aspx?id=52312)
 
+#### KBs
+- [NetBase](https://github.com/pannous/netbase)
 
 #### Presentations
 - [Relation Learning for Large Scale Knowledge Graph](http://nlp.csai.tsinghua.edu.cn/~lzy/talks/adl2015.pdf)
