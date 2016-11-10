@@ -55,6 +55,7 @@
 
 #### KBs
 - [NetBase](https://github.com/pannous/netbase)
+- [Freebase](https://developers.google.com/freebase/)
 
 #### Presentations
 - [Relation Learning for Large Scale Knowledge Graph](http://nlp.csai.tsinghua.edu.cn/~lzy/talks/adl2015.pdf)
