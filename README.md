@@ -51,6 +51,7 @@
 - [WebNav](https://github.com/nyu-dl/WebNav/blob/master/README.md)
 - [Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 - [FB15K Knowledge Base](https://www.microsoft.com/en-us/download/details.aspx?id=52312)
+- Yahoo! Answers Comprehensive Questions and Answers version 1.0 (multi part)
 
 #### KBs
 - [NetBase](https://github.com/pannous/netbase)
