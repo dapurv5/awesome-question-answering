@@ -27,12 +27,13 @@
 - [Hybrid computing using a neural network with dynamic external memory](http://www.nature.com/nature/journal/v538/n7626/full/nature20101.html)
 - [Traversing Knowledge Graphs in Vector Space](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP038.pdf)
 - [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705)
+- [Hierarchical Memory Networks](http://openreview.net/pdf?id=BJ0Ee8cxx)
+- [Gaussian Attention Model and its Application to Knowledge Base Embedding and Question Answering](https://arxiv.org/pdf/1611.02266.pdf)
+- [Gated Graph Sequence Neural Networks](https://arxiv.org/abs/1511.05493)
 
 
 #### todo
 - [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652v2.pdf)
-- [Hierarchical Memory Networks](http://openreview.net/pdf?id=BJ0Ee8cxx)
-
 
 
 #### Datasets
