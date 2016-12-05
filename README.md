@@ -53,6 +53,7 @@
 - [Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 - [FB15K Knowledge Base](https://www.microsoft.com/en-us/download/details.aspx?id=52312)
 - Yahoo! Answers Comprehensive Questions and Answers version 1.0 (multi part)
+- [Cornell Movie Dialogue Dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
 #### KBs
 - [NetBase](https://github.com/pannous/netbase)
