@@ -55,6 +55,7 @@
 - Yahoo! Answers Comprehensive Questions and Answers version 1.0 (multi part)
 - [Cornell Movie Dialogue Dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 - [WikiQA](http://aka.ms/WikiQA)
+- [Quora Duplicate Questions Dataset](https://data.quora.com/)
 
 #### KBs
 - [NetBase](https://github.com/pannous/netbase)
