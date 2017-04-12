@@ -31,7 +31,7 @@
 - [Gaussian Attention Model and its Application to Knowledge Base Embedding and Question Answering](https://arxiv.org/pdf/1611.02266.pdf)
 - [Gated Graph Sequence Neural Networks](https://arxiv.org/abs/1511.05493)
 - [Sequence to Sequence Learning With Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
-
+- [Neural Conversation Model](https://arxiv.org/pdf/1506.05869v1.pdf)
 
 #### todo
 - [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652v2.pdf)
