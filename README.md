@@ -76,3 +76,5 @@
 - [Key Value MemNN](https://github.com/siyuanzhao/key-value-memory-networks)
 - [Quepy](https://github.com/machinalis/quepy)
 - [NLQuery](https://github.com/ayoungprogrammer/nlquery)
+- [ParlAI](https://github.com/facebookresearch/ParlAI)
+- [flask-chatterbot](https://github.com/chamkank/flask-chatterbot)
