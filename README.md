@@ -79,3 +79,4 @@
 - [NLQuery](https://github.com/ayoungprogrammer/nlquery)
 - [ParlAI](https://github.com/facebookresearch/ParlAI)
 - [flask-chatterbot](https://github.com/chamkank/flask-chatterbot)
+- [Learning to Rank short text pairs with CNN SIGIR 2015](https://github.com/shashankg7/Keras-CNN-QA)
