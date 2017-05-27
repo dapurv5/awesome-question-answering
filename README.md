@@ -59,6 +59,7 @@
 - [WikiQA](http://aka.ms/WikiQA)
 - [Quora Duplicate Questions Dataset](https://data.quora.com/)
 - [Query Reformulator Dataset Jeopardy etc](https://github.com/nyu-dl/QueryReformulator)
+- [Quiz Bowl Questions](https://www.cs.colorado.edu/~jbg/projects/IIS-1320538.html#Datasets)
 
 #### KBs
 - [NetBase](https://github.com/pannous/netbase)
