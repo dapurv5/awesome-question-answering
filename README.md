@@ -34,10 +34,6 @@ QA领域经典论文，项目及数据集
 - [Neural Conversation Model](https://arxiv.org/pdf/1506.05869v1.pdf)
 - [Query Reduction Networks For Question Answering](https://arxiv.org/pdf/1606.04582.pdf)
 
-#### todo
-- [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652v2.pdf)
-
-
 #### Datasets
 - [bAbI dataset](https://research.facebook.com/research/babi/)
 - [CNN QA Task (Teaching Machines to Read & Comprehend)](https://github.com/deepmind/rc-data/)
