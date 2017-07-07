@@ -1,6 +1,6 @@
 # awesome-question-answering
 
-
+QA领域经典论文，项目及数据集
 #### Papers 
 - [Memory Networks](http://arxiv.org/pdf/1410.3916v11.pdf)
 - [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
