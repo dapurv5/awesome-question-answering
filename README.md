@@ -34,6 +34,7 @@ QA领域经典论文，项目及数据集
 - [Neural Conversation Model](https://arxiv.org/pdf/1506.05869v1.pdf)
 - [Query Reduction Networks For Question Answering](https://arxiv.org/pdf/1606.04582.pdf)
 - [Efficiently Answering Technical Questions — A Knowledge Graph Approach](http://wangzhongyuan.com/en/papers/Technical_Questions_Answering.pdf)
+- [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/ACL2017-Hao.pdf)
 
 #### Datasets
 - [bAbI dataset](https://research.facebook.com/research/babi/)
