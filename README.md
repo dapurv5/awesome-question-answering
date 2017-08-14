@@ -33,6 +33,7 @@ QA领域经典论文，项目及数据集
 - [Sequence to Sequence Learning With Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 - [Neural Conversation Model](https://arxiv.org/pdf/1506.05869v1.pdf)
 - [Query Reduction Networks For Question Answering](https://arxiv.org/pdf/1606.04582.pdf)
+- [Efficiently Answering Technical Questions — A Knowledge Graph Approach](http://wangzhongyuan.com/en/papers/Technical_Questions_Answering.pdf)
 
 #### Datasets
 - [bAbI dataset](https://research.facebook.com/research/babi/)
