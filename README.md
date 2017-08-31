@@ -1,6 +1,9 @@
 # awesome-question-answering
 
-QA领域经典论文，项目及数据集
+QA
+
+领域经典论文，项目及数据集
+
 #### Papers 
 - [Memory Networks](http://arxiv.org/pdf/1410.3916v11.pdf)
 - [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
@@ -33,6 +36,7 @@ QA领域经典论文，项目及数据集
 - [Sequence to Sequence Learning With Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 - [Neural Conversation Model](https://arxiv.org/pdf/1506.05869v1.pdf)
 - [Query Reduction Networks For Question Answering](https://arxiv.org/pdf/1606.04582.pdf)
+- [Conditional Focused Neural Question Answering with Large-scale Knowledge Bases](https://arxiv.org/pdf/1606.01994.pdf)
 - [Efficiently Answering Technical Questions — A Knowledge Graph Approach](http://wangzhongyuan.com/en/papers/Technical_Questions_Answering.pdf)
 - [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/ACL2017-Hao.pdf)
 
