@@ -40,6 +40,30 @@ QA
 - [Efficiently Answering Technical Questions — A Knowledge Graph Approach](http://wangzhongyuan.com/en/papers/Technical_Questions_Answering.pdf)
 - [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/ACL2017-Hao.pdf)
 
+#### Category
+##### Question generation
+- [Question Generation via Overgenerating Transformations and Ranking (Technical report)](https://www.lti.cs.cmu.edu/sites/default/files/cmulti09013.pdf)
+- [**Automation of question generation from sentences**](http://www.sadidhasan.com/sadid-QG.pdf)
+- [**Good question!statistical ranking for question generation**](https://homes.cs.washington.edu/~nasmith/papers/heilman+smith.naacl10.pdf)
+- [Question generation from paragraphs at upenn: Qgstec system description](http://www.aclweb.org/anthology/I11-1104)
+- [Automatically generating questions from queries for community-based question answering](http://www.aclweb.org/anthology/I11-1104)
+- [How to Generate Cloze Questions from Definitions: A Syntactic Approach](https://www.cs.cmu.edu/~listen/pdfs/gates-2011-aaai-qg.pdf)
+- [Generating natural language questions to support learning on-line](http://www.aclweb.org/anthology/W13-2114)
+- [Deep questions without deep understanding](http://www.aclweb.org/anthology/P15-1086)
+- [Leveraging multiple views of text for automatic question generation](http://link.springer.com/chapter/10.1007/978-3-319-19773-9_26)
+- [Revup: Automatic gap-fill question generation from educational texts](http://www.aclweb.org/anthology/W15-0618)
+- [Towards topic-to-question generation](http://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00206)
+- [Ranking automatically generated questions using common human queries](http://www.aclweb.org/old_anthology/W/W16/W16-66.pdf#page=233)
+- [Generating quiz questions from knowledge graphs](http://delivery.acm.org/10.1145/2750000/2742722/p113-seyler.pdf)
+- [**Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus**](http://arxiv.org/pdf/1603.06807v1.pdf)
+- [**Knowledge Questions from Knowledge Graphs**](https://arxiv.org/abs/1610.09935)
+- [**Machine Comprehension by Text-to-Text Neural Question Generation**](http://aclweb.org/anthology/W17-2603)
+- [Question Generation from a Knowledge Base with Web Exploration](https://arxiv.org/pdf/1610.03807.pdf)
+- [On Generating Characteristic-rich Question Sets for QA Evaluation](http://www.aclweb.org/anthology/D/D16/D16-1054.pdf)
+- [Neural Question Generation from Text: A Preliminary Study](https://arxiv.org/pdf/1704.01792.pdf)
+- [Semi-supervised qa with generative domain-adaptive nets](https://pdfs.semanticscholar.org/e8a0/536dc080acd2ca83502dddd0d511ef3fbd8c.pdf)
+
+
 #### Datasets
 - [bAbI dataset](https://research.facebook.com/research/babi/)
 - [CNN QA Task (Teaching Machines to Read & Comprehend)](https://github.com/deepmind/rc-data/)
@@ -62,6 +86,7 @@ QA
 - [Quora Duplicate Questions Dataset](https://data.quora.com/)
 - [Query Reformulator Dataset Jeopardy etc](https://github.com/nyu-dl/QueryReformulator)
 - [Quiz Bowl Questions](https://www.cs.colorado.edu/~jbg/projects/IIS-1320538.html#Datasets)
+- [WebQA-Chinese](http://idl.baidu.com/WebQA.html)
 
 #### KBs
 - [NetBase](https://github.com/pannous/netbase)
