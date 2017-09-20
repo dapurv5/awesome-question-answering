@@ -110,3 +110,4 @@ QA
 - [flask-chatterbot](https://github.com/chamkank/flask-chatterbot)
 - [Learning to Rank short text pairs with CNN SIGIR 2015](https://github.com/shashankg7/Keras-CNN-QA)
 - [TextKBQA](https://github.com/rajarshd/TextKBQA)
+- [BiAttnFlow](https://github.com/allenai/bi-att-flow)
