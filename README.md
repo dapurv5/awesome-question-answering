@@ -39,6 +39,7 @@ QA
 - [Conditional Focused Neural Question Answering with Large-scale Knowledge Bases](https://arxiv.org/pdf/1606.01994.pdf)
 - [Efficiently Answering Technical Questions — A Knowledge Graph Approach](http://wangzhongyuan.com/en/papers/Technical_Questions_Answering.pdf)
 - [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/ACL2017-Hao.pdf)
+- [Question Answering as Global Reasoning over Semantic Abstractions](http://www.cis.upenn.edu/~danielkh/files/2018_semanticilp/2018_aaai_semanticilp.pdf)
 
 #### Category
 ##### Question generation
@@ -88,6 +89,7 @@ QA
 - [Quiz Bowl Questions](https://www.cs.colorado.edu/~jbg/projects/IIS-1320538.html#Datasets)
 - [WebQA-Chinese](http://idl.baidu.com/WebQA.html)
 - [Chat corpus](https://github.com/Marsan-Ma/chat_corpus)
+- [MultiRC](http://cogcomp.org/multirc/)
 
 #### KBs
 - [NetBase](https://github.com/pannous/netbase)
