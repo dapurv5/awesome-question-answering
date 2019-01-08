@@ -90,6 +90,7 @@ QA
 - [WebQA-Chinese](http://idl.baidu.com/WebQA.html)
 - [Chat corpus](https://github.com/Marsan-Ma/chat_corpus)
 - [MultiRC](http://cogcomp.org/multirc/)
+- [NewsQA](https://github.com/Maluuba/newsqa)
 
 #### KBs
 - [NetBase](https://github.com/pannous/netbase)
