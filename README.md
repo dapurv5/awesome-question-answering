@@ -1,8 +1,9 @@
-# awesome-question-answering
+<div align="center">
+    <h1>Awesome Question Answering</h1>
+    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
+</div>
 
-QA
-
-领域经典论文，项目及数据集
+A curated list of awesome question answering related resources, including papers, datasets, etc..
 
 #### Papers 
 - [Memory Networks](http://arxiv.org/pdf/1410.3916v11.pdf)
